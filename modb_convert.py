@@ -9,7 +9,7 @@ def ctf():
         Fahrenheit = 9 / 5 * Celsius + 32
         print("The temperature is", Fahrenheit, "degrees Fahrenheit.")
         print(" ")
-
+    
 
 
 def ftc():
